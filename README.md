@@ -2,7 +2,8 @@
 horizontal progessview with step divider use in many fitness app
 
 
-<image src=https://user-images.githubusercontent.com/20221469/56956837-eb4a6880-6b62-11e9-87a3-4ba252255f8f.gif width=451 height=800>
+<image src=https://user-images.githubusercontent.com/20221469/58424764-c8ee3100-80b5-11e9-9a75-f9720de8da00.gif
+ width=451 height=800>
   <pre>
   &lt;com.example.stephorizontalprogess.MyHorizontalProgessView
         android:id="@+id/myHorizontalProgessView"
