@@ -25,8 +25,8 @@ horizontal progessview with step divider use in many fitness app
         app:roundcorner="true"
         app:stepcolor="@android:color/white"
         app:viewbackgroundcolor="#dfdfdf">
-  </pre>
-  
+```
+
 ##  Developer
   jignesh khunt
   (jigneshkhunt13@gmail.com)
